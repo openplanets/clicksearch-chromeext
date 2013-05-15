@@ -5,7 +5,7 @@
   "permissions": ["contextMenus", "http://riddleit.com/*"],
   "background": {
     "persistent": false,
-    "scripts": ["sample.js", "jquery.min.js"]
+    "scripts": ["clicksearch.js", "jquery.min.js"]
   },
   "manifest_version": 2
 }
