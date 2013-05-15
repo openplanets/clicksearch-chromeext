@@ -1,0 +1,11 @@
+{
+  "name": "Click Search",
+  "description": "Context menu that searches a web archive for selected text.",
+  "version": "0.1",
+  "permissions": ["contextMenus", "http://riddleit.com/*"],
+  "background": {
+    "persistent": false,
+    "scripts": ["sample.js", "jquery.min.js"]
+  },
+  "manifest_version": 2
+}
